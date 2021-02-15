@@ -1,0 +1,27 @@
+https://plzrun.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4PS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0
+https://covenant.tistory.com/224
+백준 문제 추천
+
+1)그리디 알고리즘으로 시작하기 
+2)탐색알고리즘: 완전탐색, BES, DFS 부분 공부하기
+3)기본 동적 프로그램 
+4) 그래프이론, 중급 및 고급 동적 프로그래밍, 문자열
+출처: https://youngsubee.tistory.com/entry/알고리즘-공부방법 [기록]
+
+3. 그리디 알고리즘 먼저 공부하고 관련된 문제 풀기
+4. 탐색(BFS, DFS) 공부하고 관련 문제 풀기
+5. 기본 동적 프로그래밍 공부하고 관련 문제 풀기
+
+출처: https://ebbnflow.tistory.com/190 [Today I Learn : Amy's Dev Log]
+
+그리디 알고리즘
+탐색 알고리즘 (완전탐색 / BFS /DFS)
+기본 동적 프로그래밍
+그래프 이론
+중급 / 고급 동적 프로그래밍
+문자열
+
+코드업 기초 100제 https://codeup.kr/problemsetsol.php?psid=23
+백준온라인저지 그리디 https://www.acmicpc.net/problemset?search=greedy
+탐색 알고리즘 (완전탐색 / BFS /DFS)
+기본 동적 프로그래밍
