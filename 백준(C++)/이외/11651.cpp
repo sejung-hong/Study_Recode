@@ -18,13 +18,13 @@ int main() {
 	int x, y;
 	for (int i = 0; i < N; i++) {
 		cin >> x >> y;
-		vec.push_back(make_pair(x, y));
+		vec.push_back(make_pair(y, x));
 	}
 
 	sort(vec.begin(), vec.end());
 
 	for (int i = 0; i < N; i++) {
-		cout << vec[i].first << " " << vec[i].second << "\n";
+		cout << vec[i].second << " " << vec[i].first << "\n";
 	}
 
 	return 0;
